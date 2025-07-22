@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi everyone! Welcome to my profile👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MrKacu13)](https://git.io/streak-stats)
+
+🌱 I’m currently learning Pawn and working on my open.mp freeroam server! 😎
 
 <!--
 **MrKacu13/MrKacu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My open.mp server here 🔽
+[![](https://widgets.gamemonitoring.net/servers/7659642/560x95.png)](https://gamemonitoring.net/servers/7659642)
