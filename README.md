@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My open.mp server here 🔽
-[![](https://widgets.gamemonitoring.net/servers/7659642/560x95.png)](https://gamemonitoring.net/servers/7659642)
+[![](https://widgets.gamemonitoring.net/servers/10655518/560x95.png)](https://gamemonitoring.net/servers/10655518)
