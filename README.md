@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 -->
 ## My open.mp server here 🔽
 [![](https://widgets.gamemonitoring.net/servers/10655518/560x95.png)](https://gamemonitoring.net/servers/10655518)
+
+## My COD4X server here 🔽
+[![](https://cache.gametracker.com/server_info/83.168.69.6:28960/b_560_95_1.png)](https://www.gametracker.com/server_info/83.168.69.6:28960)
