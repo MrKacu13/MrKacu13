@@ -1,7 +1,7 @@
 ## Hi everyone! Welcome to my profile👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MrKacu13)](https://git.io/streak-stats)
 
-🌱 I’m currently learning Pawn and working on my open.mp freeroam server! 😎
+🌱 I’m currently learning Pawn/Lua and scripting own GTA:SA multiplayer servers. 😎
 
 <!--
 **MrKacu13/MrKacu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
