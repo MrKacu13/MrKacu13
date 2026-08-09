@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![](https://widgets.gamemonitoring.net/servers/10655518/560x95.png)](https://gamemonitoring.net/servers/10655518)
 
 ## My COD4X server here 🔽
-[![](https://cache.gametracker.com/server_info/83.168.69.6:28960/b_560_95_1.png)](https://www.gametracker.com/server_info/83.168.69.6:28960)
+[![](https://widgets.gamemonitoring.net/servers/10825123/560x95.webp)](https://gamemonitoring.net/call-of-duty-4-modern-warfare/servers/10825123)
