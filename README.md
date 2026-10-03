@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My open.mp server here 🔽
-[![](https://widgets.gamemonitoring.net/servers/10655518/560x95.png)](https://gamemonitoring.net/servers/10655518)
+[![](https://www.game-state.com/83.168.69.6:4000/560x95_FFFFFF_FF9900_000000_000000.png)](https://www.game-state.com/83.168.69.6:4000/)
 
 ## My COD4X server here 🔽
-[![](https://widgets.gamemonitoring.net/servers/10825123/560x95.webp)](https://gamemonitoring.net/call-of-duty-4-modern-warfare/servers/10825123)
+[![](https://www.game-state.com/83.168.69.6:28960/560x95_FFFFFF_FF9900_000000_000000.png)](https://www.game-state.com/83.168.69.6:28960/)
